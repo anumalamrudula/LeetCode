@@ -1,0 +1,2 @@
+Hint 1:
+    Build the correct order of heights by sorting another array, then compare the two arrays.

@@ -1,0 +1,5 @@
+Hint 1:
+    Loop through the array starting from the end.
+
+Hint 2:
+    Keep the maximum value seen so far.
